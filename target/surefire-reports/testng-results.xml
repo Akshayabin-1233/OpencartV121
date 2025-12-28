@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-27T03:15:46 IST" name="GroupingMasterSuite" finished-at="2025-12-27T03:15:59 IST" duration-ms="12079">
+    <groups>
+      <group name="Master">
+        <method signature="TC_001_AccountRegistrationTestExtentReport.test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTestExtentReport@7efaad5a]" name="test_account_Registration" class="testCases.TC_001_AccountRegistrationTestExtentReport"/>
+        <method signature="TC_002_LoginTestExtentReport.test_Login()[pri:0, instance:testCases.TC_002_LoginTestExtentReport@5505ae1a]" name="test_Login" class="testCases.TC_002_LoginTestExtentReport"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC_002_LoginTestExtentReport.test_Login()[pri:0, instance:testCases.TC_002_LoginTestExtentReport@5505ae1a]" name="test_Login" class="testCases.TC_002_LoginTestExtentReport"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC_001_AccountRegistrationTestExtentReport.test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTestExtentReport@7efaad5a]" name="test_account_Registration" class="testCases.TC_001_AccountRegistrationTestExtentReport"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-12-27T03:15:46 IST" name="Test" finished-at="2025-12-27T03:15:59 IST" duration-ms="12079">
+      <class name="testCases.TC_001_AccountRegistrationTestExtentReport">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationTestExtentReport@7efaad5a]" started-at="2025-12-27T03:15:47 IST" name="setup" finished-at="2025-12-27T03:15:50 IST" duration-ms="3550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTestExtentReport@7efaad5a]" started-at="2025-12-27T03:15:50 IST" name="test_account_Registration" finished-at="2025-12-27T03:15:55 IST" duration-ms="4629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_account_Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegistrationTestExtentReport@7efaad5a]" started-at="2025-12-27T03:15:55 IST" name="tearDown" finished-at="2025-12-27T03:15:55 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AccountRegistrationTestExtentReport -->
+      <class name="testCases.TC_002_LoginTestExtentReport">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTestExtentReport@5505ae1a]" started-at="2025-12-27T03:15:55 IST" name="setup" finished-at="2025-12-27T03:15:57 IST" duration-ms="1890" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Login()[pri:0, instance:testCases.TC_002_LoginTestExtentReport@5505ae1a]" started-at="2025-12-27T03:15:57 IST" name="test_Login" finished-at="2025-12-27T03:15:58 IST" duration-ms="1608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTestExtentReport@5505ae1a]" started-at="2025-12-27T03:15:58 IST" name="tearDown" finished-at="2025-12-27T03:15:59 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_LoginTestExtentReport -->
+    </test> <!-- Test -->
+  </suite> <!-- GroupingMasterSuite -->
+</testng-results>

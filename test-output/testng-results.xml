@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-26T19:34:02 IST" name="GridSuite" finished-at="2025-12-26T19:34:31 IST" duration-ms="28749">
+    <groups>
+      <group name="Master">
+        <method signature="TC_001_AccountRegistrationTestGrid.test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTestGrid@40238dd0]" name="test_account_Registration" class="testCases.TC_001_AccountRegistrationTestGrid"/>
+        <method signature="TC_002_LoginTestGrid.test_Login()[pri:0, instance:testCases.TC_002_LoginTestGrid@2f1de2d6]" name="test_Login" class="testCases.TC_002_LoginTestGrid"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC_002_LoginTestGrid.test_Login()[pri:0, instance:testCases.TC_002_LoginTestGrid@2f1de2d6]" name="test_Login" class="testCases.TC_002_LoginTestGrid"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC_001_AccountRegistrationTestGrid.test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTestGrid@40238dd0]" name="test_account_Registration" class="testCases.TC_001_AccountRegistrationTestGrid"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-12-26T19:34:02 IST" name="Test" finished-at="2025-12-26T19:34:31 IST" duration-ms="28749">
+      <class name="testCases.TC_002_LoginTestGrid">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTestGrid@2f1de2d6]" started-at="2025-12-26T19:34:25 IST" name="setup" finished-at="2025-12-26T19:34:28 IST" duration-ms="3081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Login()[pri:0, instance:testCases.TC_002_LoginTestGrid@2f1de2d6]" started-at="2025-12-26T19:34:28 IST" name="test_Login" finished-at="2025-12-26T19:34:31 IST" duration-ms="2203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTestGrid@2f1de2d6]" started-at="2025-12-26T19:34:31 IST" name="tearDown" finished-at="2025-12-26T19:34:31 IST" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_LoginTestGrid -->
+      <class name="testCases.TC_001_AccountRegistrationTestGrid">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationTestGrid@40238dd0]" started-at="2025-12-26T19:34:03 IST" name="setup" finished-at="2025-12-26T19:34:10 IST" duration-ms="7735" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTestGrid@40238dd0]" started-at="2025-12-26T19:34:10 IST" name="test_account_Registration" finished-at="2025-12-26T19:34:23 IST" duration-ms="13000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_account_Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegistrationTestGrid@40238dd0]" started-at="2025-12-26T19:34:24 IST" name="tearDown" finished-at="2025-12-26T19:34:25 IST" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AccountRegistrationTestGrid -->
+    </test> <!-- Test -->
+  </suite> <!-- GridSuite -->
+</testng-results>

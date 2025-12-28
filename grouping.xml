@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!--Suite name we can change-->
+<suite name="GroupingMasterSuite">
+  <test thread-count="5" name="Test">
+  	<parameter name="os" value="Windows" />
+  	<parameter name="browser"  value="chrome"/> 
+  	<groups>
+          <run>
+              <include name="Master"/>
+               <!-- <include name="Sanity" />-->
+               <!-- below line regression executes AccountRegistrationTestGroup-->
+			  <!--  <include name="Regression" /> --> 
+               <exclude name="Datadriven"/>
+          </run>
+       </groups>
+    <classes>
+     <class name="testCases.TC_001_AccountRegistrationTestGroup"/>
+     <class name="testCases.TC_002_LoginTestGroup"/>
+         <!--  <class name="testCases.TC_003_LoginDDTGroup"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

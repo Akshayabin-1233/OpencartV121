@@ -1,0 +1,84 @@
+2025-12-27 00:23:14 INFO  TC_001_AccountRegistrationTestExtentReport:13 - Strating TC_001_AccountRegistrationtTest
+2025-12-27 00:23:15 INFO  TC_001_AccountRegistrationTestExtentReport:17 - Clicked on My Account 
+2025-12-27 00:23:15 INFO  TC_001_AccountRegistrationTestExtentReport:20 - Clicked on Register 
+2025-12-27 00:23:16 INFO  TC_001_AccountRegistrationTestExtentReport:25 - Provided First Name 
+2025-12-27 00:23:16 INFO  TC_001_AccountRegistrationTestExtentReport:28 - Provided Last Name 
+2025-12-27 00:23:16 INFO  TC_001_AccountRegistrationTestExtentReport:32 - Provided Email 
+2025-12-27 00:23:16 INFO  TC_001_AccountRegistrationTestExtentReport:35 - Provided Telephone 
+2025-12-27 00:23:17 INFO  TC_001_AccountRegistrationTestExtentReport:38 - Provided Password 
+2025-12-27 00:23:17 INFO  TC_001_AccountRegistrationTestExtentReport:41 - Provided Confrmed Password 
+2025-12-27 00:23:18 INFO  TC_001_AccountRegistrationTestExtentReport:44 - Set Privacy Policy 
+2025-12-27 00:23:20 INFO  TC_001_AccountRegistrationTestExtentReport:47 - Clicked on Continue 
+2025-12-27 00:23:22 INFO  TC_001_AccountRegistrationTestExtentReport:59 - Finished TC_001_AccountRegistrationtTest
+2025-12-27 00:23:25 INFO  TC_002_LoginTestExtentReport:14 - Starting TC_002_LoginTest
+2025-12-27 00:23:28 INFO  TC_002_LoginTestExtentReport:42 -  Finished TC_002_LoginTest
+2025-12-27 02:13:14 INFO  TC_001_AccountRegistrationTestExtentReport:13 - Strating TC_001_AccountRegistrationtTest
+2025-12-27 02:13:15 INFO  TC_001_AccountRegistrationTestExtentReport:17 - Clicked on My Account 
+2025-12-27 02:13:15 INFO  TC_001_AccountRegistrationTestExtentReport:20 - Clicked on Register 
+2025-12-27 02:13:15 INFO  TC_001_AccountRegistrationTestExtentReport:25 - Provided First Name 
+2025-12-27 02:13:16 INFO  TC_001_AccountRegistrationTestExtentReport:28 - Provided Last Name 
+2025-12-27 02:13:16 INFO  TC_001_AccountRegistrationTestExtentReport:32 - Provided Email 
+2025-12-27 02:13:16 INFO  TC_001_AccountRegistrationTestExtentReport:35 - Provided Telephone 
+2025-12-27 02:13:16 INFO  TC_001_AccountRegistrationTestExtentReport:38 - Provided Password 
+2025-12-27 02:13:16 INFO  TC_001_AccountRegistrationTestExtentReport:41 - Provided Confrmed Password 
+2025-12-27 02:13:16 INFO  TC_001_AccountRegistrationTestExtentReport:44 - Set Privacy Policy 
+2025-12-27 02:13:17 INFO  TC_001_AccountRegistrationTestExtentReport:47 - Clicked on Continue 
+2025-12-27 02:13:20 INFO  TC_001_AccountRegistrationTestExtentReport:59 - Finished TC_001_AccountRegistrationtTest
+2025-12-27 02:13:22 INFO  TC_002_LoginTestExtentReport:14 - Starting TC_002_LoginTest
+2025-12-27 02:13:24 INFO  TC_002_LoginTestExtentReport:42 -  Finished TC_002_LoginTest
+2025-12-27 02:14:06 INFO  TC_001_AccountRegistrationTestExtentReport:13 - Strating TC_001_AccountRegistrationtTest
+2025-12-27 02:14:07 INFO  TC_001_AccountRegistrationTestExtentReport:17 - Clicked on My Account 
+2025-12-27 02:14:08 INFO  TC_001_AccountRegistrationTestExtentReport:20 - Clicked on Register 
+2025-12-27 02:14:08 INFO  TC_001_AccountRegistrationTestExtentReport:25 - Provided First Name 
+2025-12-27 02:14:09 INFO  TC_001_AccountRegistrationTestExtentReport:28 - Provided Last Name 
+2025-12-27 02:14:09 INFO  TC_001_AccountRegistrationTestExtentReport:32 - Provided Email 
+2025-12-27 02:14:09 INFO  TC_001_AccountRegistrationTestExtentReport:35 - Provided Telephone 
+2025-12-27 02:14:09 INFO  TC_001_AccountRegistrationTestExtentReport:38 - Provided Password 
+2025-12-27 02:14:10 INFO  TC_001_AccountRegistrationTestExtentReport:41 - Provided Confrmed Password 
+2025-12-27 02:14:10 INFO  TC_001_AccountRegistrationTestExtentReport:44 - Set Privacy Policy 
+2025-12-27 02:14:11 INFO  TC_001_AccountRegistrationTestExtentReport:47 - Clicked on Continue 
+2025-12-27 02:14:13 INFO  TC_001_AccountRegistrationTestExtentReport:59 - Finished TC_001_AccountRegistrationtTest
+2025-12-27 02:14:15 INFO  TC_002_LoginTestExtentReport:14 - Starting TC_002_LoginTest
+2025-12-27 02:14:17 INFO  TC_002_LoginTestExtentReport:42 -  Finished TC_002_LoginTest
+2025-12-27 02:41:34 INFO  TC_001_AccountRegistrationTestExtentReport:13 - Strating TC_001_AccountRegistrationtTest
+2025-12-27 02:41:34 INFO  TC_001_AccountRegistrationTestExtentReport:17 - Clicked on My Account 
+2025-12-27 02:41:34 INFO  TC_001_AccountRegistrationTestExtentReport:20 - Clicked on Register 
+2025-12-27 02:41:34 INFO  TC_001_AccountRegistrationTestExtentReport:25 - Provided First Name 
+2025-12-27 02:41:35 INFO  TC_001_AccountRegistrationTestExtentReport:28 - Provided Last Name 
+2025-12-27 02:41:35 INFO  TC_001_AccountRegistrationTestExtentReport:32 - Provided Email 
+2025-12-27 02:41:35 INFO  TC_001_AccountRegistrationTestExtentReport:35 - Provided Telephone 
+2025-12-27 02:41:35 INFO  TC_001_AccountRegistrationTestExtentReport:38 - Provided Password 
+2025-12-27 02:41:35 INFO  TC_001_AccountRegistrationTestExtentReport:41 - Provided Confrmed Password 
+2025-12-27 02:41:35 INFO  TC_001_AccountRegistrationTestExtentReport:44 - Set Privacy Policy 
+2025-12-27 02:41:36 INFO  TC_001_AccountRegistrationTestExtentReport:47 - Clicked on Continue 
+2025-12-27 02:41:39 INFO  TC_001_AccountRegistrationTestExtentReport:59 - Finished TC_001_AccountRegistrationtTest
+2025-12-27 02:41:41 INFO  TC_002_LoginTestExtentReport:14 - Starting TC_002_LoginTest
+2025-12-27 02:41:42 INFO  TC_002_LoginTestExtentReport:42 -  Finished TC_002_LoginTest
+2025-12-27 02:48:29 INFO  TC_001_AccountRegistrationTestExtentReport:13 - Strating TC_001_AccountRegistrationtTest
+2025-12-27 02:48:29 INFO  TC_001_AccountRegistrationTestExtentReport:17 - Clicked on My Account 
+2025-12-27 02:48:30 INFO  TC_001_AccountRegistrationTestExtentReport:20 - Clicked on Register 
+2025-12-27 02:48:30 INFO  TC_001_AccountRegistrationTestExtentReport:25 - Provided First Name 
+2025-12-27 02:48:30 INFO  TC_001_AccountRegistrationTestExtentReport:28 - Provided Last Name 
+2025-12-27 02:48:30 INFO  TC_001_AccountRegistrationTestExtentReport:32 - Provided Email 
+2025-12-27 02:48:30 INFO  TC_001_AccountRegistrationTestExtentReport:35 - Provided Telephone 
+2025-12-27 02:48:30 INFO  TC_001_AccountRegistrationTestExtentReport:38 - Provided Password 
+2025-12-27 02:48:30 INFO  TC_001_AccountRegistrationTestExtentReport:41 - Provided Confrmed Password 
+2025-12-27 02:48:30 INFO  TC_001_AccountRegistrationTestExtentReport:44 - Set Privacy Policy 
+2025-12-27 02:48:32 INFO  TC_001_AccountRegistrationTestExtentReport:47 - Clicked on Continue 
+2025-12-27 02:48:34 INFO  TC_001_AccountRegistrationTestExtentReport:59 - Finished TC_001_AccountRegistrationtTest
+2025-12-27 02:48:35 INFO  TC_002_LoginTestExtentReport:14 - Starting TC_002_LoginTest
+2025-12-27 02:48:37 INFO  TC_002_LoginTestExtentReport:42 -  Finished TC_002_LoginTest
+2025-12-27 03:15:50 INFO  TC_001_AccountRegistrationTestExtentReport:13 - Strating TC_001_AccountRegistrationtTest
+2025-12-27 03:15:50 INFO  TC_001_AccountRegistrationTestExtentReport:17 - Clicked on My Account 
+2025-12-27 03:15:51 INFO  TC_001_AccountRegistrationTestExtentReport:20 - Clicked on Register 
+2025-12-27 03:15:51 INFO  TC_001_AccountRegistrationTestExtentReport:25 - Provided First Name 
+2025-12-27 03:15:51 INFO  TC_001_AccountRegistrationTestExtentReport:28 - Provided Last Name 
+2025-12-27 03:15:51 INFO  TC_001_AccountRegistrationTestExtentReport:32 - Provided Email 
+2025-12-27 03:15:51 INFO  TC_001_AccountRegistrationTestExtentReport:35 - Provided Telephone 
+2025-12-27 03:15:51 INFO  TC_001_AccountRegistrationTestExtentReport:38 - Provided Password 
+2025-12-27 03:15:51 INFO  TC_001_AccountRegistrationTestExtentReport:41 - Provided Confrmed Password 
+2025-12-27 03:15:52 INFO  TC_001_AccountRegistrationTestExtentReport:44 - Set Privacy Policy 
+2025-12-27 03:15:53 INFO  TC_001_AccountRegistrationTestExtentReport:47 - Clicked on Continue 
+2025-12-27 03:15:55 INFO  TC_001_AccountRegistrationTestExtentReport:59 - Finished TC_001_AccountRegistrationtTest
+2025-12-27 03:15:57 INFO  TC_002_LoginTestExtentReport:14 - Starting TC_002_LoginTest
+2025-12-27 03:15:58 INFO  TC_002_LoginTestExtentReport:42 -  Finished TC_002_LoginTest

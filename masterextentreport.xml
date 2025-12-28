@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!--Suite name we can change-->
+<suite name="GroupingMasterSuite">
+<!-- Listeners added before test tag-->
+<listeners>
+<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+  <test thread-count="5" name="Test">
+  	<parameter name="os" value="Windows" />
+  	<parameter name="browser"  value="chrome"/> 
+  	<groups>
+          <run>
+          <!-- below line executes both sanity and regression-->
+             <include name="Master"/>
+              <!--  <include name="Sanity" />-->
+               <!-- below line regression executes AccountRegistrationTestGroup-->
+			    <!-- <include name="Regression" />-->
+               <exclude name="Datadriven"/>
+          </run>
+       </groups>
+    <classes>
+     <class name="testCases.TC_001_AccountRegistrationTestExtentReport"/>
+     <class name="testCases.TC_002_LoginTestExtentReport"/>
+         <!--  <class name="testCases.TC_003_LoginDDTGroup"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
